@@ -1,11 +1,11 @@
 Hi 👋 My name is Rahim Mahat
 ============================
 
-I'm a Engineer, Student, Developer and Newbie Cyber Security Enthusiast Currently working on my personal website for the Portfolio
+I'm an Engineer, Software Developer, Designer, Web Developer always open for new challenges and opportunites
 
 * 🌍  I'm based in Maharashtra, India
 * ✉️  You can contact me at [rahimmahat07@gmail.com](mailto:rahimmahat07@gmail.com)
-* 🧠  I'm learning Business Intelligence
+* 🧠  I'm learning Artificial Intelligence
 * 🥂  I'm open to collaborating on Web Development, Web Design, Python Develpment, Business Analytics
 * 🤝  [Portfolio website](https://rahimmahat.netlify.app)
 
